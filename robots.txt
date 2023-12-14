@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sethajacobson.github.io/al-folio/sitemap.xml
+Sitemap: https://sethajacobson.github.io/sitemap.xml
